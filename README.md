@@ -1,11 +1,14 @@
 # Epilogue_Life
+https://epilogue.life/
 
 HOW TO TUTORIAL
+
 Welcome to the Epilogue Life Guide tutorial! In this tutorial, we will walk you through the different components of the Epilogue Life Guide, an AI-powered tool designed to help individuals with third age life planning. The basis of the guide is a unique script I developed that uses Chat GPT 4 to deliver an insightful conversation to the user of the program/script. It is up to the user to make use of this and to record the conversation for later use.
 
 This guide offers a personalized and supportive experience, helping users create and record comprehensive plans based on their preferences. *Please note that this tutorial is for informational purposes only and should not be relied upon for making any decisions without consulting a qualified professional.
 
 TO USE THIS PROGRAM WITHIN CHAT GPT
+
 Click on the ‘get started ‘ button on the home page when you are logged into Chat GPT. Use GPT 4 and then the ‘continue this conversation’ button.
 
 Main Program: The main program of the Epilogue Life Guide consists of several sections:
@@ -94,3 +97,5 @@ The instructions also provide a list of questions that the program can use to en
 If the user chooses to pause and resume the conversation later, they can use the /continue command to pick up where they left off. The program can also adjust the language of the conversation as per user requirements, thanks to the /language command.
 
 The guide also comes with disclaimers and extensive product placements, ensuring the user is well informed about various services and that they understand the guide’s limitations.
+
+https://epilogue.life/
