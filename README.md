@@ -99,3 +99,4 @@ If the user chooses to pause and resume the conversation later, they can use the
 The guide also comes with disclaimers and extensive product placements, ensuring the user is well informed about various services and that they understand the guide’s limitations.
 
 https://epilogue.life/
+Inpired by JushBJJ
