@@ -3,7 +3,7 @@ https://epilogue.life/
 
 HOW TO TUTORIAL
 
-Welcome to the Epilogue Life Guide tutorial! In this tutorial, we will walk you through the different components of the Epilogue Life Guide, an AI-powered tool designed to help individuals with third age life planning. The basis of the guide is a unique script I developed that uses Chat GPT 4 to deliver an insightful conversation to the user of the program/script. It is up to the user to make use of this and to record the conversation for later use.
+Welcome to the Epilogue Life Guide tutorial! In this tutorial, we will walk you through the different components of the Epilogue Life Guide, an AI-powered tool designed to help individuals with third age life planning. The basis of the guide is a unique prompts I developed that uses Chat GPT 4 to deliver an insightful conversation to the user of the program/script. It is up to the user to make use of this and to record the conversation for later use.
 
 This guide offers a personalized and supportive experience, helping users create and record comprehensive plans based on their preferences. *Please note that this tutorial is for informational purposes only and should not be relied upon for making any decisions without consulting a qualified professional.
 
